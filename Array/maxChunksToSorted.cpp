@@ -1,3 +1,5 @@
+//TC-> O(N), SC->CONSTANT 769 LC
+
 class Solution {
 public:
     int maxChunksToSorted(vector<int>& arr) {
